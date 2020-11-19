@@ -1,6 +1,6 @@
-# ArXiv and the Information Explosion
+# arXiv and the Information Explosion
 
-Hello, welcome to the companion repository for my blog post: [ArXiv and the Information Explosion](https://edouardfouche.com/ArXiv-and-the-Information-Explosion/). 
+Hello, welcome to the companion repository for my blog post: [arXiv and the Information Explosion](https://edouardfouche.com/arXiv-and-the-Information-Explosion/). 
 
 **Requirements:** Python 3, Jupyter notebooks (you may simply get [Anaconda](https://www.anaconda.com/) ^^)
 
